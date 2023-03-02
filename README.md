@@ -1,2 +1,2 @@
-# Simple_scanner
-#trustme
+# Simple_Scanner
+Simple Vulnerability scanner for Bug Hunters 
